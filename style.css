@@ -1,0 +1,18 @@
+body {
+    font-size: 18px;
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: floralwhite;
+}
+
+
+h1 {
+	background-color: black;
+	font-color: white;
+}
+
+.animal {
+	padding: 20px;
+	background-color: blue;
+
+}
+
